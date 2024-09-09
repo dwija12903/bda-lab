@@ -1,6 +1,6 @@
 # 📊 Big Data Analytics Lab Files
 
-This repository contains various lab files and projects from my **Big Data Analytics** coursework, covering topics such as **Scala**, **PySpark**, **RDD**, **SQL**, **GraphX**, **NetworkX**, **PageRank**, **Linear Regression**, and **Random Forest**.
+This repository contains various lab files from my **Big Data Analytics** coursework, covering topics such as **Scala**, **PySpark**, **RDD**, **SQL**, **GraphX**, **NetworkX**, **PageRank**, **Linear Regression**, and **Random Forest**.
 
 ### 💻 Lab Files Included:
 
